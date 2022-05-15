@@ -17,7 +17,7 @@ Talvez voce tenha que instalar o <a href="https://www.python.org/downloads/relea
 Depois da instalaçao, de: 
 ```
 conda create chatbot python=3.6
-````
+```
 e depois disso de:
 ```
 $ pip install chatterbot
