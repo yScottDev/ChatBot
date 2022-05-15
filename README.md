@@ -40,7 +40,7 @@ Assim, o framework instalara.
 Para iniciar, de:
 
 ```
-$ pip install chatterbot
+$ python main.py
 ```
 
 ![foto](
